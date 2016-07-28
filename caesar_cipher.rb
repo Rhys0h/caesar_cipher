@@ -15,4 +15,4 @@ def caesar_cipher(word, number)
 puts coded_word
 end
 
-caesar_cipher("xZz", -2)
+caesar_cipher("xZz", 2)
